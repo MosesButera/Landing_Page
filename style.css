@@ -7,9 +7,11 @@
     .header {
     display: flex;
     justify-content: space-between;
-    background-color: #1f2937;
-
-    
+    background-color: #1f2937;    
   }
   
+  .right-links {
+    display: flex;
+    gap: 15px;
+  }
 
