@@ -8,7 +8,8 @@
     display: flex;
     justify-content: space-between;
     background-color: #1f2937;    
-  }
+    padding: 20px;
+}
   
   .right-links {
     display: flex;
@@ -24,4 +25,11 @@
     color: #e5e7eb;
     text-decoration: none;
   }
+
+.hero-container {
+    display: flex;
+    padding: 20px;
+    background-color: #1f2937;
+
+}
 
