@@ -9,7 +9,7 @@
     justify-content: space-around;
     background-color: #1f2937;    
     padding: 20px;
-}
+  }
   
   .right-links {
     display: flex;
@@ -26,10 +26,16 @@
     text-decoration: none;
   }
 
-.hero-container {
+ .hero-container {
     display: flex;
     padding: 20px;
     background-color: #1f2937;
-    justify-content: space-around;
+    justify-content: space-around;    
 }
 
+  .hero-title {
+    font-size: 48px;
+    color: #f9faf8;
+    font-weight: 900;
+    
+  }
