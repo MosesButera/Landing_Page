@@ -111,17 +111,24 @@ button {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    
 }
 
 .quote {
     font-size: 36px;
     color: #1f2937;
-    font-style: italic;        
+    font-style: italic;
+    width: 1100px;        
 }
 
-.author {
-    margin-left: auto;
+.content2 .author {
+    display: flex;
+    flex-direction: row;
+    width: 1100px; 
+    justify-content: flex-end;
+    
 }
+
 
 
 
