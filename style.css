@@ -129,6 +129,15 @@ button {
     font-weight: 900;
 }
 
+/* .content3 {
+    display: flex;
+} */
+ 
+.box {
+   background-color: #3882f6; 
+   height: 200px;
+   width: 1200px;
+}
 
 
 
