@@ -72,7 +72,7 @@ button {
 
 .content1 {
     text-align: center; 
-    height: 400px;   
+    height: 315px;    
 }
 
 .title {
@@ -103,6 +103,21 @@ button {
 .container .text {
     font-size: 18px;
 }
+
+.content2 {
+    display: flex;
+    background-color: #e5e7eb;
+    height: 315px; 
+    flex-direction: column;
+}
+
+/* .quote {
+    font-size: 36px;
+    color: #1f2937;
+    font-style: italic;
+} */
+
+
 
 /* .footer {
     background-color: #1f2937;
