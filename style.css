@@ -81,6 +81,12 @@ button {
    margin-bottom: 25px;
 }
 
+.container {
+    display: flex;
+    justify-content: center;
+    gap: 45px;
+    
+}
 
 /* .footer {
     background-color: #1f2937;
