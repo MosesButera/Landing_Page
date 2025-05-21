@@ -84,8 +84,11 @@ button {
 .container {
     display: flex;
     justify-content: center;
-    gap: 45px;
-    
+    gap: 45px;    
+}
+
+.container img {
+    border-radius: 15px;
 }
 
 /* .footer {
