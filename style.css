@@ -146,9 +146,10 @@ button {
     color: white;
 }
 
-/* .content3 {
-   
-} */
+.box button {
+    border: 1px solid white;
+}
+
 
 /* .footer {
     background-color: #1f2937;
