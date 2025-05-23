@@ -70,7 +70,7 @@ button {
 
 .content1 {
     display: flex;
-    text-align: center; 
+     
     height: 400px;
     flex-direction: column;
     justify-content: center;
@@ -106,6 +106,8 @@ button {
 
 .container .text {
     font-size: 18px;
+    width: 150px;
+    text-align: center;
 }
 
 .content2 {
