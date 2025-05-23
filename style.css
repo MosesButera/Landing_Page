@@ -7,9 +7,8 @@
 
   .header {
     display: flex;
-    width: 800px; 
-    justify-content: space-between;
-    
+    width: 1300px; 
+    justify-content: space-between; 
   }
   
   .right-links {
@@ -29,7 +28,7 @@
 
  .hero-container {
     display: flex;
-    min-width: 800px;
+    min-width: 1300px;
     justify-content: space-between;
     
   }
@@ -48,9 +47,7 @@
     padding: 0;
     margin: 0;
     align-items: center;
-    flex: 1 1 auto;
     height: 400px;
-    
 }
 
 .hero-img {
@@ -150,14 +147,13 @@ button {
     border: 1px solid white;
 }
 
-
 .footer {
+    flex: 1 1 auto;
     background-color: #1f2937;
     font-size: 18px;
     color: #e5e7eb;
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100px;
-    
+    height: 100px;  
 }
