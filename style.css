@@ -145,6 +145,7 @@ button {
    margin: 100px auto;
    gap: 100px;
    color: #e7e9e6;
+   border-radius: 10px;
 }
 
 .box1 {
