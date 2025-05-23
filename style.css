@@ -7,7 +7,7 @@
 
   .header {
     display: flex;
-    width: 1100px; 
+    width: 1200px; 
     justify-content: space-between; 
   }
   
@@ -28,7 +28,7 @@
 
  .hero-container {
     display: flex;
-    min-width: 1100px;
+    min-width: 1200px;
     justify-content: space-between;
     
   }
@@ -70,7 +70,7 @@ button {
 
 .content1 {
     display: flex;
-     
+    text-align: center;
     height: 400px;
     flex-direction: column;
     justify-content: center;
@@ -89,7 +89,7 @@ button {
 .container {
     display: flex;
     justify-content: center;
-    gap: 15px;    
+    gap: 25px;    
 }
 
 .container img {
@@ -100,14 +100,14 @@ button {
 }
 
 .container .item {
-    width: 300px;
+    width: 150px;
     height: 200px;
 }
 
 .container .text {
     font-size: 18px;
     width: 150px;
-    text-align: center;
+
 }
 
 .content2 {
