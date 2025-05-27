@@ -175,7 +175,12 @@ button {
     height: 100px;
 }
 
-
 .header, .hero-container, .content1, .content2, .content3 {
     flex: 1;
+}
+
+.content3 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
